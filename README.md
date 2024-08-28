@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Pralhad322
-- 👀 I’m interested in Computer Networks, Network security, IDS
+- 👀 I’m interested in Computer Networks, Network security, IDS, High-speed networking, Machine learning
 - 🌱 I’m currently working on the acceleration of IDS hardware
 - 💞️ I’m looking to collaborate on network-related projects
 - 📫 How to reach me: magadumpralhad[at]gmil[dot]com, phd2201201007[at]iiti[dot]ac[dot]in
