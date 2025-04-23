@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Pralhad Magadum
 - 👀 I’m interested in Computer Networks, Network security, IDS, High-speed networking, Machine learning
-- 🌱 I’m currently working on the acceleration of IDS hardware
+- 🌱 I’m currently working on the acceleration of IDS hardware and programmable packet scheduling
 - 💞️ I’m looking to collaborate on network-related projects
 - 📫 How to reach me: magadumpralhad[at]gmil[dot]com, phd2201201007[at]iiti[dot]ac[dot]in
 
